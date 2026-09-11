@@ -273,3 +273,5 @@ export default function KanbanPage() {
         </DndContext>
     );
 }
+
+// so now i want a linux machine , i am not comfortable with this windows , pleaase provide me linux machine, i won't be able to use this one 
