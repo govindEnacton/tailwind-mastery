@@ -161,7 +161,7 @@ const handleChange = (e: React.ChangeEvent<HTMLInputElement>) => {
               Back
             </Button>
 
-            <Button onClick={()=> alert("Profile created!")}
+            <Button onClick={()=> alert("whatever you've written is now flushed. Enjoy!!")}
               >
               Create Profile
             </Button>

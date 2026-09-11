@@ -1,7 +1,6 @@
 import DynamicRouteButton from "@/components/DynamicRouteButton";
 
 export default function Home() {
-
   return (
     <>
       <div>
